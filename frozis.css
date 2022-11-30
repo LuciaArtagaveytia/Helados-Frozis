@@ -61,6 +61,7 @@ nav a:hover { color: #ffffff; background-color: #95BCC2; transition: all .5s}
 .caja3 div {width: 100%; background-color: darkgray; text-align: center; padding: 3px}
 .caja3 div.conta {text-align: right}
 
+
 .insta {width: 9%; padding-top: 11px}
 .face {width: 9%;padding-top: 11px}
 .tel {width:10%; padding-top: 8px} 
@@ -214,7 +215,10 @@ iframe {margin: 20px}
 
 .foto:hover {box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 1); transition: all .5s}
 	
-.pedidofot {width: 70%; margin-top: 20px; margin-bottom: 20px}
+.pedidofot {width: 80%; margin-top: 20px; margin-bottom: 20px}
+
+.cajagaleria1 {text-align: center; display: inline-flex}
+
 
 	
 @media screen and (max-width: 950px) {
@@ -257,6 +261,11 @@ iframe {margin: 20px}
 	
 	.cajagaleria img {width: 100%}
 	.te {width: 100%;}
+	
+	.cajagaleria1 {text-align: center; display: block; width: 100%}
+	
+	.cajagaleria1 img {width: 100%}
+
 	
 } 
 
@@ -306,6 +315,10 @@ iframe {margin: 20px}
 	.te {width: 100%; text-align: center}
 	
 	.pedidofot {width: 95%}
+	
+	.cajagaleria1 {text-align: center; display: block; width: 100%}
+	
+	.cajagaleria1 img {width: 100%}
 
 	
 
